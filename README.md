@@ -1,1 +1,1 @@
-# Dev_nagari_Classifier
+# Deva_nagari_Classifier
