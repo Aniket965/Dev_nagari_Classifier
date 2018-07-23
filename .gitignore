@@ -105,3 +105,4 @@ venv.bak/
 data/
 devanagari.pickle
 test.py
+first_cnn_model.h5
